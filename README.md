@@ -8,6 +8,8 @@ Please cite this paper if you use any aspects of this code.  All software author
 T. D. Robinson, except for xyinterp.f (which is authored by D. Crisp).  Questions, 
 concerns, and requested updates can be sent to robinson.tyler.d@gmail.com.
 
+Also, please cite the model using the DOI: 10.5281/zenodo.268008.
+
 Note that this version assumes a Henyey-Greenstein scattering phase function, and only 
 has limb darkening parameters for the Sun.  Time permitting, generalizations of these 
 treatments will be added in the future.
